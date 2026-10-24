@@ -1,0 +1,7 @@
+Student_Name,APAAR_NO,DOB,Gender,Email,Mobile,Roll_Number,Branch,Admission_Category,Admission_Date
+Tarun Roy,9825-1029-3847,2004-02-14,Male,tarun.roy@example.com,9812001122,TIT-2024-CSE-301,CSE,GENERAL,2024-08-01
+,9825-9988-7766,2004-06-20,Male,missing.name@example.com,9812001123,TIT-2024-CSE-302,CSE,GENERAL,2024-08-01
+Sujata Paul,INVALID-APAAR,2004-08-11,Female,sujata.paul@example.com,9812001124,TIT-2024-ECE-303,ECE,OBC,2024-08-01
+Ramesh Verma,,2004-10-05,Male,ramesh.verma@example.com,9812001125,TIT-2024-ME-304,ME,SC,2024-08-01
+Debolina Sen,9825-1029-3847,2004-04-16,Female,debolina.sen@example.com,9812001126,TIT-2024-CSE-305,CSE,GENERAL,2024-08-01
+Amitabh Das,9825-3344-5566,2004-12-09,Male,amitabh.das@example.com,9812001127,TIT-2024-CIVIL-306,UNKNOWN_PROG,GENERAL,2024-08-01

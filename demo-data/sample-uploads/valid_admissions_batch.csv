@@ -1,0 +1,9 @@
+CandidateName,Academic_ID,DateOfBirth,Sex,Candidate_Email,Contact_No,Reg_No,Course,Quota,Admission_Dt
+Aman Sharma,9824-1122-3344,2004-03-12,Male,aman.sharma@example.edu.in,9811223344,TIT-2024-CSE-201,CSE,GENERAL,2024-08-01
+Rohit Sen,9824-2233-4455,2004-05-18,Male,rohit.sen@example.edu.in,9822334455,TIT-2024-CSE-202,CSE,GENERAL,2024-08-01
+Moumita Ghosh,9824-3344-5566,2004-07-22,Female,moumita.ghosh@example.edu.in,9833445566,TIT-2024-CSE-203,CSE,OBC,2024-08-01
+Abhishek Mukherjee,9824-4455-6677,2004-09-14,Male,abhishek.m@example.edu.in,9844556677,TIT-2024-CSE-204,CSE,SC,2024-08-01
+Swati Roy,9824-5566-7788,2004-11-30,Female,swati.roy@example.edu.in,9855667788,TIT-2024-CSE-205,CSE,EWS,2024-08-01
+Anirban Das,9824-6677-8899,2004-01-19,Male,anirban.das@example.edu.in,9866778899,TIT-2024-ECE-206,ECE,GENERAL,2024-08-01
+Kaveri Nair,9824-7788-9900,2004-04-25,Female,kaveri.nair@example.edu.in,9877889900,TIT-2024-ECE-207,ECE,GENERAL,2024-08-01
+Siddharth Bose,9824-8899-0011,2003-12-10,Male,siddharth.bose@example.edu.in,9888990011,TIT-2024-AIML-208,AIML,GENERAL,2024-08-01
