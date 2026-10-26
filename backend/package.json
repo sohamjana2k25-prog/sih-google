@@ -6,8 +6,10 @@
   "scripts": {
     "dev": "tsx watch src/server.ts",
     "build": "tsc",
-    "start": "tsx src/server.ts",
-    "seed": "tsx src/database/seed.ts"
+    "start": "node dist/server.js",
+    "start:dev": "tsx src/server.ts",
+    "seed": "tsx src/database/seed.ts",
+    "seed:prod": "node -e \"require('./dist/database/seed.js')\""
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",

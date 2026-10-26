@@ -1,0 +1,21 @@
+apaar_id,full_name,dob,gender,email,phone,roll_number,programme_code,admission_category,admission_date
+100120240001,Aarav Mehta,2004-03-12,Male,aarav.mehta@student.edu.in,9876543201,CSE2024001,CSE,GENERAL,2024-08-01
+100120240002,Sneha Iyer,2004-07-25,Female,sneha.iyer@student.edu.in,9876543202,CSE2024002,CSE,OBC,2024-08-01
+100120240003,Rohan Sharma,2003-11-05,Male,rohan.sharma@student.edu.in,9876543203,ECE2024001,ECE,SC,2024-08-01
+100120240004,Divya Nair,2004-01-18,Female,divya.nair@student.edu.in,9876543204,ME2024001,ME,GENERAL,2024-08-01
+100120240005,Karthik Reddy,2004-06-30,Male,karthik.reddy@student.edu.in,9876543205,CSE2024003,CSE,EWS,2024-08-01
+100120240006,Anjali Singh,2003-09-14,Female,anjali.singh@student.edu.in,9876543206,IT2024001,IT,GENERAL,2024-08-01
+100120240007,Vikas Patel,2004-02-22,Male,vikas.patel@student.edu.in,9876543207,AIML2024001,AIML,OBC,2024-08-01
+100120240008,Pooja Gupta,2004-05-10,Female,pooja.gupta@student.edu.in,9876543208,CE2024001,CE,ST,2024-08-01
+100120240009,Amit Kumar,2003-12-28,Male,amit.kumar@student.edu.in,9876543209,EE2024001,EE,GENERAL,2024-08-01
+100120240010,Preethi Subramaniam,2004-04-08,Female,preethi.sub@student.edu.in,9876543210,CSE2024004,CSE,SC,2024-08-01
+100120240011,Nikhil Joshi,2004-08-19,Male,nikhil.joshi@student.edu.in,9876543211,ECE2024002,ECE,GENERAL,2024-08-01
+100120240012,Kavya Pillai,2003-10-31,Female,kavya.pillai@student.edu.in,9876543212,ME2024002,ME,OBC,2024-08-01
+100120240013,Saurabh Tiwari,2004-03-07,Male,saurabh.tiwari@student.edu.in,9876543213,IT2024002,IT,EWS,2024-08-01
+100120240014,Meera Krishnamurthy,2004-06-16,Female,meera.krishna@student.edu.in,9876543214,AIML2024002,AIML,GENERAL,2024-08-01
+100120240015,Deepak Yadav,2003-11-23,Male,deepak.yadav@student.edu.in,9876543215,CE2024002,CE,SC,2024-08-01
+100120240016,Tanvi Bhatt,2004-01-09,Female,tanvi.bhatt@student.edu.in,9876543216,EE2024002,EE,GENERAL,2024-08-01
+100120240017,Harish Babu,2004-07-04,Male,harish.babu@student.edu.in,9876543217,CSE2024005,CSE,OBC,2024-08-01
+100120240018,Swathi Ramesh,2004-02-14,Female,swathi.ramesh@student.edu.in,9876543218,ECE2024003,ECE,ST,2024-08-01
+100120240019,Rajesh Verma,2003-09-27,Male,rajesh.verma@student.edu.in,9876543219,ME2024003,ME,GENERAL,2024-08-01
+100120240020,Nisha Agarwal,2004-05-21,Female,nisha.agarwal@student.edu.in,9876543220,IT2024003,IT,EWS,2024-08-01

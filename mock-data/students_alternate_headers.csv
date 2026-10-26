@@ -1,0 +1,21 @@
+StudentName,APAAR_No,Date_of_Birth,Gender,candidate_email,mobile_no,reg_no,programme,quota,admitted_on
+Aditya Bhardwaj,200234560001,2004-04-12,Male,aditya.b@college.edu.in,9812300001,CSE2024101,CSE,GENERAL,2024-08-02
+Riya Chatterjee,200234560002,2003-12-05,Female,riya.c@college.edu.in,9812300002,ECE2024101,ECE,OBC,2024-08-02
+Suresh Anand,200234560003,2004-08-20,Male,suresh.a@college.edu.in,9812300003,ME2024101,ME,SC,2024-08-02
+Lakshmi Venkataraman,200234560004,2004-02-28,Female,lakshmi.v@college.edu.in,9812300004,IT2024101,IT,GENERAL,2024-08-02
+Pranav Deshmukh,200234560005,2003-10-15,Male,pranav.d@college.edu.in,9812300005,AIML2024101,AIML,EWS,2024-08-02
+Ishita Malhotra,200234560006,2004-06-07,Female,ishita.m@college.edu.in,9812300006,CE2024101,CE,GENERAL,2024-08-02
+Sandeep Kulkarni,200234560007,2004-01-30,Male,sandeep.k@college.edu.in,9812300007,EE2024101,EE,OBC,2024-08-02
+Ananya Bose,200234560008,2003-11-18,Female,ananya.b@college.edu.in,9812300008,CSE2024102,CSE,ST,2024-08-02
+Mohit Saxena,200234560009,2004-05-25,Male,mohit.s@college.edu.in,9812300009,ECE2024102,ECE,GENERAL,2024-08-02
+Shreya Jain,200234560010,2004-03-11,Female,shreya.j@college.edu.in,9812300010,ME2024102,ME,SC,2024-08-02
+Arjun Nambiar,200234560011,2004-09-02,Male,arjun.n@college.edu.in,9812300011,IT2024102,IT,GENERAL,2024-08-02
+Sakshi Pandey,200234560012,2003-07-14,Female,sakshi.p@college.edu.in,9812300012,AIML2024102,AIML,OBC,2024-08-02
+Varun Shetty,200234560013,2004-11-08,Male,varun.s@college.edu.in,9812300013,CE2024102,CE,EWS,2024-08-02
+Preeti Mishra,200234560014,2004-04-22,Female,preeti.m@college.edu.in,9812300014,EE2024102,EE,GENERAL,2024-08-02
+Gaurav Menon,200234560015,2003-08-31,Male,gaurav.m@college.edu.in,9812300015,CSE2024103,CSE,SC,2024-08-02
+Bhavna Kapoor,200234560016,2004-01-16,Female,bhavna.k@college.edu.in,9812300016,ECE2024103,ECE,GENERAL,2024-08-02
+Shivam Rastogi,200234560017,2004-07-09,Male,shivam.r@college.edu.in,9812300017,ME2024103,ME,OBC,2024-08-02
+Poornima Sundaram,200234560018,2003-09-24,Female,poornima.s@college.edu.in,9812300018,IT2024103,IT,ST,2024-08-02
+Akash Tripathi,200234560019,2004-06-18,Male,akash.t@college.edu.in,9812300019,AIML2024103,AIML,GENERAL,2024-08-02
+Priyanka Dutta,200234560020,2004-02-03,Female,priyanka.d@college.edu.in,9812300020,CE2024103,CE,EWS,2024-08-02
